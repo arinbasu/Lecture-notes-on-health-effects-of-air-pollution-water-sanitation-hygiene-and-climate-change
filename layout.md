@@ -1,2 +1,2 @@
 untitled.html
-article.html
+index.html
